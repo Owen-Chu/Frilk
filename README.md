@@ -6,3 +6,9 @@ This was a drinks company that was formed in Year 8 for an ICT project. This was
 
 # Rivalry
 Formed an admittedly one sided rivalry with [Alcoholish](https://sites.google.com/view/alcoholish/home?authuser=0) who came 2nd in the competition, constantly innovating and attempting to one up eachother's brands.
+
+# Stills
+In `Stills/` is most of the images created for Frilk, some have been lost due to time.
+
+# Videos
+In `Videos/` is most of the videos created for Frilk, some have been lost due to time.
